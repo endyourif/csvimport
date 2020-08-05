@@ -11,7 +11,7 @@
   "dependencies": {
     "csv": "^1.1.1",
     "express": "^4.15.4",
-    "express-fileupload": "^0.2.0",
+    "express-fileupload": "^1.1.9",
     "fast-csv": "^2.4.0",
     "json2csv": "^3.11.1",
     "mongodb": "^2.2.31",
